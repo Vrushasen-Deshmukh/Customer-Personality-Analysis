@@ -1,2 +1,7 @@
-# Customer-Personality-Analysis
-Task 1 of Internship by Elevate Labs
+Completion of Task 1 of Internship
+
+- Understanding the entire data
+- Cleaning and Organising of the dataset
+
+1. Seperating the data into their respective columns using 'Convert Text to Column Wizard'.
+2. Rearranging the columns next to their kins.
