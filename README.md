@@ -6,4 +6,4 @@ Completion of Task 1 of Internship
 1. Seperating the data into their respective columns using 'Convert Text to Column Wizard'.
 2. Rearranging the columns next to their kins.
 3. Rewriting the Headers
-4. Finding blanks and filling them with a specific color
+4. Removing duplicate values
